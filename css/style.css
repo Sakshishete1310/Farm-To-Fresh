@@ -1,0 +1,185 @@
+.navbar{
+    background-color: #c44dff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.nav-item{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+    margin-left: 20px;
+    box-shadow: 2px 2px 3px pink;
+}
+.fruit-basket{
+    height: 250px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px palevioletred;
+    border: 0,5px solid palevioletred;
+}
+.fruit-basket:hover{
+    box-shadow: 5px 5px 5px palevioletred;
+}
+.header{
+    text-align: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+
+
+}
+.header-section{
+    text-align: left;
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+}
+.tagline{
+    font-size: 30px;
+    color: blue;
+}
+.btn-header{
+    padding: 10px;
+    margin: 10px;
+    font-size: 25px;
+    border-radius: 0px 30px 0px 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+
+}
+.btn-order-now{
+    background-color: tomato;
+
+}
+.btn-order-now:hover{
+    box-shadow: 5px 5px 10px skyblue;
+}
+
+.btn-call-us{
+    background-color: skyblue;
+}
+.btn-call-us:hover{
+    box-shadow: 5px 5px 10px tomato;
+}
+
+.h-center{
+    text-align: center;
+
+}
+.feature-item{
+    width: 200px;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px purple;
+    cursor: pointer;
+    background-color: white;
+
+}
+.feature-item:hover{
+    box-shadow: 5px 5px 10px purple;
+
+
+}
+.feature-container{
+    text-align: center;
+}
+
+.feat-icon{
+    font-size: 60px;
+}
+.feature-icon-circle{
+    background-color: white;
+    width: 70px;
+    height: 70px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+
+}
+.section-fruits{
+    text-align: center;
+    height: 400px;
+    background-color: #9999ff;
+    
+    
+}
+.section-vegetables{
+    text-align: center;
+    height: 400px;
+    background-color:#ff9999;
+}
+.section-dairy-items{
+    text-align: center;
+    height: 400px;
+    background-color:#5cd65c ;
+}
+.section-contact-us{
+    text-align: center;
+    height: 400px;
+    background-color:#00e6ac ;
+}
+.fruit1-image{
+    height:300px;
+    width:300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 20px;
+}
+.vegetables-image{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+
+}
+.dairy-items-image{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.input-box{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+    width: 200px;
+    border: 3px none black;
+    border-bottom-style: solid;
+}
+.form-container{
+    background-color:#cc66ff ;
+    padding: 20PX;
+    width: 250PX;
+    margin-left: auto;
+    margin-right:auto;
+    border: 5px double black;
+    border-radius: 20px;
+    text-align: center;
+    display: block;
+}
+.btn-submit{
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+    background-color: tomato;
+    color: white;
+    border-radius: 20px;
+    border-style: none;
+}
+.h-sakshi{
+    background-color: #94b8b8;
+}
+
+
+
+
+
+
